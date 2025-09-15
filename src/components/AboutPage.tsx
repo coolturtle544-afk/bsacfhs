@@ -77,7 +77,7 @@ export default function AboutPage() {
                 <h3 className="text-lg font-semibold mb-2">Join Discord</h3>
                 <p className="text-sm opacity-80 mb-4">Chat with club members and get updates</p>
                 <a
-                  href="https://discord.gg/9hxz8wXzjs"
+                  href="https://discord.gg/dDYMDAXe2t"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block bg-white text-blue-600 px-4 py-2 rounded-lg font-medium hover:bg-gray-100 transition-colors"
